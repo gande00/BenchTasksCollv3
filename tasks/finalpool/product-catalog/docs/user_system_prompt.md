@@ -1,1 +1,1 @@
-User system prompt
+This is an user system prompt for product-catalog
